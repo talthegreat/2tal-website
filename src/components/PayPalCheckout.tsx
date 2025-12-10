@@ -6,7 +6,7 @@ import { useState } from "react";
 
 interface PayPalCheckoutProps {
   rate: number;
-  onSuccess: () => void; // Parent callback for purchase success
+  onSuccess: (x: OrderCaptureResponse | null) => void; // Parent callback for purchase success
 }
 
 interface PayPalCaptureData {
@@ -81,7 +81,7 @@ const PayPalCheckout: React.FC<PayPalCheckoutProps> = ({ rate, onSuccess }) => {
       //setCartItems([]);
 
       // Notify parent component
-      onSuccess();
+      onSuccess(successDetails);
     } catch (error) {
       console.error("Error capturing PayPal order:", error);
       throw error;

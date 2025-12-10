@@ -96,7 +96,7 @@ function Shop() {
       <>
         <div
           className="row container-md"
-          style={{ justifyContent: "space-between" }}
+          style={{ justifyContent: "space-between", display: "none" }}
         >
           <div className="col-12 col-md-2 m-4">{item(storeItems[0])}</div>
           <div className="col-12 col-md-2 m-4">{item(storeItems[1])}</div>
@@ -146,7 +146,7 @@ function Shop() {
         </Link>
         .
       </h3>
-      {/* {displayStoreItems()} */}
+      {displayStoreItems()}
       {copyright()}
     </>
   );
