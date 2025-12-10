@@ -1,7 +1,7 @@
 import { Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { getBackground, copyright } from "./SongMix.tsx";
-import background from "../assets/shipping-background-temp.jpg";
+import background from "../assets/shipping-background-temp.jpeg";
 import "../ShippingForm.css";
 import { useState } from "react";
 import { CartItem } from "./CartItem.tsx";

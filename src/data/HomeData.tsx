@@ -1,5 +1,5 @@
 import tal from "/contact-background-temp.jpg";
-import max from "../assets/home-images/max.jpg";
+import max from "../assets/home-images/max.jpeg";
 import douglas from "../assets//home-images/douglas.jpeg";
 import lucy from "../assets//home-images/lucy.jpeg";
 import { Link } from "react-router-dom";
