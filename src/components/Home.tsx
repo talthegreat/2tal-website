@@ -6,7 +6,7 @@ import NavBar from "./NavBar";
 import Social from "./Social";
 import MoreHome from "./MoreHome";
 import s1_image1 from "../assets/slideshow/1254-4-p.jpg";
-import s1_image2 from "../assets/slideshow/noho-1-p.jpg";
+import s1_image2 from "../assets/slideshow/noho-1-p.jpeg";
 import s1_image3 from "../assets/slideshow/zuzu-1-p.jpeg";
 import { useEffect, useState } from "react";
 // import { copyright } from "./SongMix"
