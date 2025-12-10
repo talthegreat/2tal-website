@@ -1,0 +1,22 @@
+[
+    {
+      "start": "",
+      "track": "../assets/audio/freedom/freedom.flac",
+      "title": "Don't You Just Want To Be Free?",
+      "duration": "3:09",
+      "artist": "2tal, Natalia Ruiz",
+      "cover": "../assets/audio/freedom/freedom.jpg",
+      "marker": "music",
+      "album": "Don't You Just Want To Be Free?"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/freedom/freedom-slowed.flac",
+      "title": "don't you just want to be free? (slowed + reverb)",
+      "duration": "3:19",
+      "artist": "2tal, Natalia Ruiz",
+      "cover": "../assets/audio/freedom/freedom.jpg",
+      "marker": "music",
+      "album": "Don't You Just Want To Be Free?"
+    }
+  ]

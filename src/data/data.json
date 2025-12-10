@@ -1,0 +1,245 @@
+{
+  "extra": {},
+  "metadata": "",
+  "shipmentDate": "2025-10-29T16:56:17.521Z",
+  "addressFrom": {
+    "name": "2tal",
+    "company": "",
+    "street1": "20 Clay St.",
+    "street2": "",
+    "street3": "",
+    "streetNo": "",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02140",
+    "country": "US",
+    "phone": "6174153118",
+    "email": "tal3starr@gmail.com",
+    "isComplete": true,
+    "objectId": "96b4bf79b9e640278f9cb2f2fc8f0e92",
+    "validationResults": {},
+    "test": true
+  },
+  "addressReturn": {
+    "name": "2tal",
+    "company": "",
+    "street1": "20 Clay St.",
+    "street2": "",
+    "street3": "",
+    "streetNo": "",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02140",
+    "country": "US",
+    "phone": "6174153118",
+    "email": "tal3starr@gmail.com",
+    "isComplete": true,
+    "objectId": "96b4bf79b9e640278f9cb2f2fc8f0e92",
+    "validationResults": {},
+    "test": true
+  },
+  "addressTo": {
+    "name": "b b",
+    "company": "",
+    "street1": "606 S Allen St",
+    "street2": "",
+    "street3": "",
+    "streetNo": "",
+    "city": "State College",
+    "state": "PA",
+    "zip": "16801-5259",
+    "country": "US",
+    "phone": "",
+    "email": "b@b.com",
+    "isComplete": true,
+    "objectId": "7fbc74e42f6f4c19b932d595aedcc22b",
+    "validationResults": {},
+    "test": true
+  },
+  "carrierAccounts": [],
+  "messages": [
+    {
+      "source": "DHLExpress",
+      "code": "",
+      "text": "Shippo's DHL Express master account doesn't support shipments to inside of the US"
+    },
+    {
+      "source": "ShippoCommon",
+      "code": "",
+      "text": "Shipment origin or destination state is out of the service area for LSO."
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_correos_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_hermes_uk_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_sendle_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_chronopost_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "UPS",
+      "code": "10429",
+      "text": "Hard: Too Many Requests"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_colissimo_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account COURIERSPLEASE_SHIPPO_TIER_1 doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_deutsche_post_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_dpd_de_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_canada_post_master doesn't support one or more shipment options"
+    },
+    {
+      "source": "UPS",
+      "code": "10429",
+      "text": "Hard: Too Many Requests"
+    },
+    {
+      "source": "Shippo",
+      "code": "",
+      "text": "Carrier account shippo_dpd_uk_account doesn't support one or more shipment options"
+    },
+    {
+      "source": "UPS",
+      "code": "",
+      "text": "Shipment origin is out of service area for UPS Master account from CA"
+    }
+  ],
+  "objectCreated": "2025-10-29T16:56:17.521Z",
+  "objectId": "7e3f935c7a00434487b384921320509a",
+  "objectUpdated": "2025-10-29T16:56:18.186Z",
+  "parcels": [
+    {
+      "extra": {},
+      "metadata": "",
+      "massUnit": "lb",
+      "weight": "1.0000",
+      "distanceUnit": "in",
+      "height": "1.0000",
+      "length": "5.0000",
+      "width": "5.0000",
+      "objectCreated": "2025-10-29T16:56:17.521Z",
+      "objectId": "9c82b23087ec4598afd3465c4ade3bde",
+      "objectOwner": "tal3starr@gmail.com",
+      "objectState": "VALID",
+      "objectUpdated": "2025-10-29T16:56:17.521Z",
+      "test": true
+    }
+  ],
+  "rates": [
+    {
+      "amount": "35.15",
+      "amountLocal": "35.15",
+      "currency": "USD",
+      "currencyLocal": "USD",
+      "attributes": [
+        "FASTEST"
+      ],
+      "carrierAccount": "56495170c7ed451aa245a25528906c2d",
+      "durationTerms": "Overnight delivery to most U.S. locations.",
+      "estimatedDays": 1,
+      "messages": [],
+      "objectCreated": "2025-10-29T16:56:18.155Z",
+      "objectId": "26734e6cd2fc465cbfe428e562a56f67",
+      "objectOwner": "tal3starr@gmail.com",
+      "provider": "USPS",
+      "providerImage75": "https://shippo-static.s3.amazonaws.com/providers/75/USPS.png",
+      "providerImage200": "https://shippo-static.s3.amazonaws.com/providers/200/USPS.png",
+      "servicelevel": {
+        "name": "Priority Mail Express",
+        "terms": "",
+        "token": "usps_priority_express",
+        "extendedToken": "usps_priority_express"
+      },
+      "shipment": "7e3f935c7a00434487b384921320509a",
+      "test": true,
+      "zone": "4"
+    },
+    {
+      "amount": "6.59",
+      "amountLocal": "6.59",
+      "currency": "USD",
+      "currencyLocal": "USD",
+      "attributes": [
+        "CHEAPEST",
+        "BESTVALUE"
+      ],
+      "carrierAccount": "56495170c7ed451aa245a25528906c2d",
+      "durationTerms": "Delivery in 2 to 5 days.",
+      "estimatedDays": 3,
+      "messages": [],
+      "objectCreated": "2025-10-29T16:56:18.155Z",
+      "objectId": "c2ea56eae49c40279b72d89283f38e23",
+      "objectOwner": "tal3starr@gmail.com",
+      "provider": "USPS",
+      "providerImage75": "https://shippo-static.s3.amazonaws.com/providers/75/USPS.png",
+      "providerImage200": "https://shippo-static.s3.amazonaws.com/providers/200/USPS.png",
+      "servicelevel": {
+        "name": "Ground Advantage",
+        "terms": "",
+        "token": "usps_ground_advantage",
+        "extendedToken": "usps_ground_advantage"
+      },
+      "shipment": "7e3f935c7a00434487b384921320509a",
+      "test": true,
+      "zone": "4"
+    },
+    {
+      "amount": "8.49",
+      "amountLocal": "8.49",
+      "currency": "USD",
+      "currencyLocal": "USD",
+      "attributes": [],
+      "carrierAccount": "56495170c7ed451aa245a25528906c2d",
+      "durationTerms": "Delivery within 1, 2, or 3 days based on where your package started and where it’s being sent.",
+      "estimatedDays": 3,
+      "messages": [],
+      "objectCreated": "2025-10-29T16:56:18.155Z",
+      "objectId": "cc24a942d202465d969f148e3356be82",
+      "objectOwner": "tal3starr@gmail.com",
+      "provider": "USPS",
+      "providerImage75": "https://shippo-static.s3.amazonaws.com/providers/75/USPS.png",
+      "providerImage200": "https://shippo-static.s3.amazonaws.com/providers/200/USPS.png",
+      "servicelevel": {
+        "name": "Priority Mail",
+        "terms": "",
+        "token": "usps_priority",
+        "extendedToken": "usps_priority"
+      },
+      "shipment": "7e3f935c7a00434487b384921320509a",
+      "test": true,
+      "zone": "4"
+    }
+  ],
+  "status": "SUCCESS",
+  "test": true
+}

@@ -1,0 +1,307 @@
+
+.splingy {
+  position: relative;
+  bottom: -200px;
+  font-size: xx-large;
+}
+
+.white-icon {
+  filter: invert(1);
+}
+
+@media (max-width: 768px) {
+    .splingy {
+    position: relative;
+    top: 120px;
+    display: none;
+  }
+}
+
+.splong {
+  position: relative;
+  top: 30px;
+}
+
+/* h1 {
+  color: white;
+  font-family: "2tal", sans-serif;
+} */
+
+body {
+  font-family: "2tal",  "Helvetica", sans-serif;
+}
+
+.image {
+  right: 0;
+}
+
+.image-sticky {
+  position: sticky;
+  top: 0;
+  bottom: 20px;
+  z-index: 2;
+}
+
+.hovery:hover {
+  filter: brightness(0.88); /* Increase brightness by 10% */
+  content: "👀"; /* Swap number with emoji */
+}
+
+.butt {
+  position: relative;
+  left: 100%;
+  translate: -90%
+
+}
+
+.item-index::before {
+  content: attr(data-original);
+  transition: opacity 0.2s ease;
+}
+
+.item-index:hover::before {
+  content: "👀"; /* Swap number with emoji */
+}
+
+.music-player {
+  position: fixed;
+  bottom: 0;
+  left: 5%;
+  right: 5%;
+  z-index: 2;
+}
+
+.mt-header {
+  margin-top: 10px; /* adjust based on header height */
+}
+
+.mb-footer {
+  margin-bottom: 100px; /* adjust based on footer height */
+}
+
+.sel {
+  color: white;
+  background-color: rgb(114, 114, 114);
+}
+
+.trans {
+  background-color: rgba(255, 255, 255, 0.447) !important;
+}
+
+.very-trans {
+  background-color: rgba(255, 255, 255, 0.265) !important;
+}
+
+.mix-details {
+  position: relative;
+  top: 8px;
+  font-size: 12px;
+}
+
+.fully-transparent {
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.blurrry {
+  filter: blur("10px");
+  size: 4;
+}
+
+.card-style {
+  width: 15rem;
+}
+
+/* .card-body {
+  padding: 0;
+  position: relative;
+  top: 5px;
+} */
+
+.social-icon {
+  width: var(--icon-size, 2rem);
+  transition: transform 0.1s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.3);
+}
+
+.explicit {
+  width: 16px;
+  filter: invert(0.2);
+  position: relative;
+  left: -4px;
+  bottom: 1.5px;
+}
+
+@font-face {
+      font-family: '2tal';
+      src: url('fonts/Gontserrat-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+@font-face {
+      font-family: '2tal';
+      src: url('fonts/Gontserrat-Bold.ttf') format('truetype');
+      font-weight: bold;
+      font-style: normal;
+    }
+
+@font-face {
+      font-family: '2tal';
+      src: url('fonts/Gontserrat-Italic.ttf') format('truetype');
+      font-weight: italic;
+      font-style: italic;
+    }
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 100% !important;
+}
+
+.image-setting {
+  position: sticky;
+  top: 0px;
+  max-width: 83vh;
+  max-height: 83vh;
+
+}
+
+.music-img {
+  width: 70%;
+}
+
+.solo-img {
+  height: 80px;
+  width: auto;
+  position: relative;
+  left: 15%;
+}
+
+.custom-offcanvas {
+  width: 500px !important;
+  background-color: rgb(234, 234, 234);
+}
+
+.app-size {
+  max-height: 83vh;
+}
+
+.download-img {
+  width: 10px !important;
+  height: 10px !important;
+  max-width: none !important;
+  max-height: none !important;
+}
+
+
+@media (max-width: 767px) {
+  .shipping-list-group {
+  padding-top: 25px;
+  padding-right: 2.5rem;
+  padding-bottom: 30px;
+  padding-left: 2.5rem;
+  }
+
+  .shipping-contact {
+    margin-top: 20px;
+  }
+
+  .listgroup-heading {
+    position: relative;
+    bottom: -6px;
+  }
+
+  .image-setting {
+    margin-bottom: 10px;
+  }
+
+  .custom-offcanvas {
+    width: 300px;
+  }
+
+
+  .music-player {
+    flex-direction: column;
+    left: 0%;
+    right: 0%;
+  }
+
+  .nav-barr {
+    font-size: 11px;
+  }
+
+  .playlist {
+    flex-direction: column-reverse;
+    align-items: stretch;
+    justify-content: space-evenly;
+  }
+
+  .list-groupp {
+    align-items: stretch;
+    justify-content: center;
+  }
+
+  .music-img {
+    width: 50%;
+  }
+
+  .image-setting {
+    position: relative;
+    top: 0px;
+    max-width: 83vh;
+    max-height: 83vh;
+    object-fit: scale-down;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .lg {
+    padding: 0;
+  }
+
+  .shop-image {
+    height: 10rem;
+    width: auto;
+    position: relative;
+    justify-content: center;
+    left: 11%;
+    transition: 1s ease;
+  }
+
+  .list-group {
+    margin-left: -2.5rem !important;
+    margin-right: -2.5rem !important;
+  }
+
+  .morehome-image {
+    width: 60%;
+  }
+}
+
+@media (max-width: 350px) {
+  .corner-image {
+    display: none !important;
+  }
+
+  .app-size {
+    /* fix this shit.
+    is there a way to dynamically change this, depending on whether the musicplayer is visible or not?
+    
+    if the musicplayer is not visible, it should be 83vh (!?) and if it is, it should be 65vh*/
+    max-height: 65vh;
+  }
+}
+
+
+.shop-image:hover {
+  transform: scale(1.05);
+}
+
+.shop-image {
+  transition: 0.2s ease;
+}

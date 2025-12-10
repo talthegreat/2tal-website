@@ -1,0 +1,122 @@
+[
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-01.mp3",
+      "title": "honey!",
+      "duration": "3:13",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-02.mp3",
+      "title": "jvn",
+      "duration": "1:45",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-03.mp3",
+      "title": "presence",
+      "duration": "2:32",
+      "artist": "2tal, Max Blue",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-04.mp3",
+      "title": "טַל",
+      "duration": "3:23",
+      "artist": "2tal, Natalia Ruiz, Monroe Randall",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-05.mp3",
+      "title": "fear is the torrent",
+      "duration": "3:52",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-06.mp3",
+      "title": "outro (terror in resonance)",
+      "duration": "3:40",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-07.mp3",
+      "title": "1254",
+      "duration": "4:37",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-08.mp3",
+      "title": "ghosts (be around)",
+      "duration": "3:05",
+      "artist": "2tal, Lucy Frost, Douglas Appleman",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-09.mp3",
+      "title": "junction",
+      "duration": "1:47",
+      "artist": "2tal, Romi Bee",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-10.mp3",
+      "title": "fever",
+      "duration": "4:26",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-11.mp3",
+      "title": "run deep",
+      "duration": "3:41",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    },
+    {
+      "start": "",
+      "track": "../assets/audio/views/track-12.mp3",
+      "title": "i'll leave the rest 2 u",
+      "duration": "2:17",
+      "artist": "2tal",
+      "cover": "../assets/views-cover.jpg",
+      "marker": "music",
+      "album": "views from my window before the light goes out"
+    }
+  ]

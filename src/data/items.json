@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Compact Disc - Deluxe",
+    "subtitle": "Standard-Size CD Case, CD Insert, Decorated CD Cover",
+    "price": 20,
+    "image": "/shop/cd-deluxe.png",
+    "remaining": 20
+  },
+  {
+    "id": 2,
+    "title": "Compact Disc - Standard",
+    "subtitle": "Ultra-Thin CD Case, CD Insert",
+    "price": 10,
+    "image": "/shop/cd-standard.png",
+    "remaining": 20
+  },
+  {
+    "id": 3,
+    "title": "Compact Disc - Basic",
+    "subtitle": "Paper CD Sleeve, CD Insert",
+    "price": 5,
+    "image": "/shop/cd-basic.png",
+    "remaining": 20
+  },
+  {
+    "id": 4,
+    "title": "Birthname T-Shirt",
+    "subtitle": "High-quality polyurethane polylisterine shirt displaying songs from album's tracklist as they originally appeared",
+    "price": 25,
+    "image": "/shop/shirt.png",
+    "remaining": 0
+  },
+  {
+    "id": 5,
+    "title": "Waveform Sweatband",
+    "subtitle": "High-performance sports sweatband featuring the waveform of the album",
+    "price": 20,
+    "image": "/shop/sweatband.png",
+    "remaining": 0
+  },
+  {
+    "id": 6,
+    "title": "Waveform Wristband",
+    "subtitle": "Rubber wristband featuring the waveform of the album",
+    "price": 5,
+    "image": "/shop/wristband.png",
+    "remaining": 0
+  },
+  {
+    "id": 7,
+    "title": "2tal Stickers",
+    "subtitle": "High-quality, die-cut, vinyl sticker (Pack of 3)",
+    "price": 5,
+    "image": "/shop/2tal-sticker.png",
+    "remaining": 0
+  }
+]

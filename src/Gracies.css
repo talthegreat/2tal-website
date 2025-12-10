@@ -1,0 +1,27 @@
+.gracies-image {
+    height: 350px;
+    aspect-ratio: 1/1;
+}
+
+.gracies-text {
+    color: white;
+}
+
+.g-logo {
+   height: 150px;
+}
+
+/* small screen sizing */
+@media (max-width: 767px) {
+  .gracies-image {
+      height: 250px;
+  }
+}
+
+/* phone sizing */
+@media (max-width: 350px) {
+  .gracies-image {
+    height: auto;
+    max-width: 100%;
+  }
+}
