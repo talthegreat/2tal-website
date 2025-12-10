@@ -136,21 +136,21 @@ body {
 
 @font-face {
       font-family: '2tal';
-      src: url('fonts/Gontserrat-Regular.ttf') format('truetype');
+      src: url('/fonts/Gontserrat-Regular.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
     }
 
 @font-face {
       font-family: '2tal';
-      src: url('fonts/Gontserrat-Bold.ttf') format('truetype');
+      src: url('/fonts/Gontserrat-Bold.ttf') format('truetype');
       font-weight: bold;
       font-style: normal;
     }
 
 @font-face {
       font-family: '2tal';
-      src: url('fonts/Gontserrat-Italic.ttf') format('truetype');
+      src: url('/fonts/Gontserrat-Italic.ttf') format('truetype');
       font-weight: italic;
       font-style: italic;
     }
