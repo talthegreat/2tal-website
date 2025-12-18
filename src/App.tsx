@@ -7,7 +7,7 @@ import Contact from "./components/Contact.tsx";
 import Home from "./components/Home.tsx";
 import Shop from "./components/Shop.tsx";
 import Shipping from "./components/Shipping.tsx";
-import Gracies from "./components/Gracies.tsx";
+import Visualizer from "./components/Visualizer.tsx";
 import { Route, Routes, useLocation } from "react-router-dom";
 import "./App.css";
 import MusicPlayer from "./components/MusicPlayer.tsx";
@@ -199,12 +199,9 @@ function App() {
           <Routes>
             <Route path="/" element={<Home ref={containerRef} />} />
             <Route
-              path="/graciesadvent"
+              path="/visualizer"
               element={
-                <Gracies
-                  onSongSelect={handleSongSelect}
-                  setSelectedIndex={setSelectedIndex}
-                />
+                <Visualizer/>
               }
             />
             <Route

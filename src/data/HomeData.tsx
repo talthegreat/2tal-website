@@ -21,7 +21,7 @@ const two_tal = {
   img: tal,
   subtitle: "2tal contains multitudes.",
   paragraphs: [
-    "ulti-talented, multi-media, multi-instrumental, 2tal's creative proclivities are known to know no bounds.",
+    "multi-talented, multi-media, multi-instrumental, 2tal's creative proclivities are known to know no bounds.",
     "His DJ sets span from the student-organized house parties of Amherst, to the rat capital of Boston, to the upper eschelon of clubs in Delhi and Goa.",
     "He also built this entire website by hand using React.",
   ],
@@ -34,7 +34,7 @@ const digitalgirlfriend = {
   subtitle: "The parasocial powerhouse.",
   paragraphs: [
     "Working tirelessly to reshape the sounds of nightlife in Boston and NYC, digitalgirlfriend has been leading the charge to revive the magic of the club scene from days past. Stay tuned -- there is more music on the way.",
-    "digitalgirlfriend is included on tracks 1, 3, 4, 6, 7, 9, and 10 of 'views', and he mastered the whole album.",
+    "digitalgirlfriend is included on tracks 1, 3, 4, 6, 7, 9, and 10 of 'views', and mastered the whole album.",
   ],
   links: [
     <a

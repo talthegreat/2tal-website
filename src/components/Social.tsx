@@ -30,17 +30,17 @@ const social = [
   {
     id: "apple music",
     image: apple_music,
-    link: "#",
+    link: "https://music.apple.com/us/album/views-from-my-window-before-the-light-goes-out/1855091337",
   },
   {
     id: "spotify",
     image: spotify,
-    link: "#",
+    link: "https://open.spotify.com/artist/2C5ZhM5muKG4BEyUEww8pX?si=gHcqTF9LQrSnnSqgLraE6w",
   },
   {
     id: "youtube",
     image: youtube,
-    link: "#",
+    link: "https://www.youtube.com/watch?v=vfZr5iqBgD8&list=OLAK5uy_k_xNbvP5qfvNlnBwvDHQHAsfwg8HQBotU",
   },
 ];
 function Social({ className, w }: Props) {
