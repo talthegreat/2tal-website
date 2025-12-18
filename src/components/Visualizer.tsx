@@ -150,10 +150,10 @@ export default function Visualizer() {
     );
   }
 
-  function grey(percent: number, line: ReactNode) {
-    const size = percent === 0.1 ? "x-large" : "xx-large";
-    return <div style={{ opacity: percent, fontSize: size }}>{line}</div>;
-  }
+//   function grey(percent: number, line: ReactNode) {
+//     const size = percent === 0.1 ? "x-large" : "xx-large";
+//     return <div style={{ opacity: percent, fontSize: size }}>{line}</div>;
+//   }
 
   return (
     <div style={{ color: "white" }}>
